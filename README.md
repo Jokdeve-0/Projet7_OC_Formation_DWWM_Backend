@@ -12,20 +12,10 @@
 >Solution :
 >
 > https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server
-* Lancer votre serveur ` MySQL ` afin de mettre en place la base de données `groupomania` à l'aide du fichier `initializeDatabase.sql` fournit dans le dossier ` './SQL' `.
-> ❗️ Possible Erreur SQL : Client does not support authentication protocol
->
->Solution :
->
-> https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server
 
 * Cloner et installer le repository `(npm i)`
 * Exécuter le serveur avec la commande `Nodemon` - Default Port: 3000
-* Cloner et installer le repository `(npm i)`
-* Exécuter le serveur avec la commande `Nodemon` - Default Port: 3000
 
-> [Application Frontend disponible](https://github.com/Jokdeve-0/Projet7_OC_Formation_DWWM_Frontend)
-> - ❗️ L’application front est configurer par defaut pour requêter sur le port 3000 ❗️ 
 > [Application Frontend disponible](https://github.com/Jokdeve-0/Projet7_OC_Formation_DWWM_Frontend)
 > - ❗️ L’application front est configurer par defaut pour requêter sur le port 3000 ❗️ 
 
